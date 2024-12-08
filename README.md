@@ -54,8 +54,7 @@ The system follows a **microservices architecture** with the following flow:
 - **Docker** (optional for containerized deployment)
 
 ### Steps to Run Locally
-1. Clone the repository:
-   ```bash
+
    git clone https://github.com/username/ReactiveProgramming-TradingApp.git
    cd ReactiveProgramming-TradingApp
    run the jar file (java -jar SpringWebFlux-ExternalSerivce.jar)
